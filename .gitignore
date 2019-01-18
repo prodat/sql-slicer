@@ -1,2 +1,5 @@
-/sources
-/workspace
+*
+!.gitignore
+!.slice.sh
+!.bash.sh
+!.README.md
